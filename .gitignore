@@ -16,3 +16,6 @@ __pycache__/
 .ropeproject/
 .vscode/
 .idea/
+
+# Data files
+*.csv

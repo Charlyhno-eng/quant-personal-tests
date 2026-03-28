@@ -1,0 +1,6 @@
+- Modèle de Markov cachés exactement comme dans la vidéo de FrenchQuant
+- Estimation pour savoir si une action est sous évaluée ou sur évalué par rapport à son PER et d'autres indicateurs
+- Corrélation entre actif (quelques actions, or, pétrole...)
+- Voir si on peut faire des stats du style si le jeudi ça monte dans 80% des cas ça descend le vendredi
+- Modélisation de volatilité
+- Régression linéaire entre deux actions corrélées pour du mean reversion
